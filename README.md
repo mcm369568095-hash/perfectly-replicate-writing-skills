@@ -3,6 +3,7 @@
 > 让 AI 写出的文章，从思考方式到文字表达，都跟原作者一模一样。
 
 ![Version](https://img.shields.io/badge/version-5.0.0-blue) ![Platform](https://img.shields.io/badge/平台-WorkBuddy-purple) ![Store](https://img.shields.io/badge/SkillHub-已上架-green)
+![微信搜一搜 · 夜秣AI搞钱](assets/wechat-search.jpg)
 
 **完美复刻蒸馏技能**是一个写作风格复刻技能，跑在 [WorkBuddy](https://www.workbuddy.cn) 里。给它某个作者的多篇文章，它用**双引擎蒸馏**，生成一个可安装的「写作分身」——分身写出来的东西，像到骨子里。
 
@@ -73,4 +74,8 @@ perfectly-replicate-writing-skills/
 
 ---
 
-**作者**：夜秣 ｜ 更多 AI 实战技能，微信公众号搜「**夜秣AI创业**」
+## 📮 关注公众号「夜秣AI搞钱」
+
+![扫码关注·夜秣AI搞钱](assets/wechat-qr.jpg)
+
+> 更多 AI 实战技能与拆解，微信搜一搜「夜秣AI搞钱」。
